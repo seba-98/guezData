@@ -1,3 +1,4 @@
+{
 [
     {   
         "id":1,
@@ -30,6 +31,6 @@
         "info":"sexta obra",
         "img":"../Images/Obras_comprimidas/images_front/af.jpg"
     }
-    
 
 ]
+}
