@@ -3,8 +3,8 @@
     {   
         "id":1,
         "info":"primer obra",
-        "img":"../Images/Obras_comprimidas/images_front/aa.jpg",
-        "img2":"../Images/Obras_comprimidas/images_back/ab2.jpg"
+        "img":"../../Images/Obras_comprimidas/images_front/aa.jpg",
+        "img2":"../../Images/Obras_comprimidas/images_back/ab2.jpg"
     },
     {   
         "id":2,
