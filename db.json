@@ -1,5 +1,5 @@
 {
-[
+  "data":[
     {   
         "id":1,
         "info":"primer obra",
@@ -31,6 +31,5 @@
         "info":"sexta obra",
         "img":"../Images/Obras_comprimidas/images_front/af.jpg"
     }
-
 ]
 }
